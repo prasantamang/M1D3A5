@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.wrapper{
+    background-color: black;
+    width: 1366px;
+    height: 635px;
+}
+.firstbox{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin-left: 1266px;
+}
+.secondbox{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 1166px;
+}
+.thirdbox{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-left: 1066px;
+}
+.fourthbox{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin-left: 966px;
+}
